@@ -2,7 +2,7 @@
   "name": "source-code-pro",
   "version": "0.0.0",
   "description": "Source Code Pro available for npm usage",
-  "main": "index.js",
+  "main": "dist/source-code-pro.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
