@@ -1,5 +1,7 @@
 # Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/basarat/source-code-pro.svg)](https://greenkeeper.io/)
+
 Please use with webpack
 
 ```
